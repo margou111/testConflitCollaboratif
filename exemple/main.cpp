@@ -46,6 +46,7 @@ void main()
 void fonctionTestConflit()
 {
 	cout << "compte2git\n";
+	cout << "margou" << endl;
 }
 
 void fonction1()
